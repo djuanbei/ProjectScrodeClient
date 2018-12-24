@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- %指的是比例 p指的是相对于父类 -->
+
+<set>
+
+
+
+    <alpha
+
+            xmlns:android="http://schemas.android.com/apk/res/android"
+
+            android:duration="2000"
+
+            android:fromAlpha="1.0"
+
+            android:repeatCount="1"
+
+            android:repeatMode="reverse"
+
+            android:toAlpha="0.0" >
+
+    </alpha>
+
+
+
+</set>
+
